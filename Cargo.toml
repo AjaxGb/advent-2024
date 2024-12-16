@@ -8,6 +8,10 @@ edition = "2021"
 name = "day01"
 path = "src/day01/main.rs"
 
+[[bin]]
+name = "day02"
+path = "src/day02/main.rs"
+
 [dependencies]
 itertools = "0.13.0"
 thiserror = "2.0.7"
